@@ -1,2 +1,3 @@
 # hello-world
 First github repository exercise
+This is me, trying to get organised so that my PhD doesn't end up in a mass of messy files where I don't remember where I put stuff or why I did what I did or which bits are final, edited etc etc...
